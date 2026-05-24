@@ -84,22 +84,22 @@ Hệ thống sử dụng cơ sở dữ liệu SQLite local để quản lý thô
 
 <div align="center">
     <img width="80%" src="Code/1.png" />
-    <p><i>Màn hình bảng điều khiển tổng quan (Dashboard) chỉ số nước</i></p>
+    <p><i>Màn hình bảng điều khiển tổng quan </i></p>
 </div>
 
 <div align="center">
     <img width="80%" src="Code/2.png" />
-    <p><i>Biểu đồ phân tích lưu lượng nước tiêu thụ theo thời gian</i></p>
+    <p><i>Lịch sử tiêu thụ </i></p>
 </div>
 
 <div align="center">
     <img width="80%" src="Code/3.png" />
-    <p><i>Trang cấu hình ngưỡng cảnh báo và đơn giá nước</i></p>
+    <p><i>Danh sách thiết bị</i></p>
 </div>
 
 <div align="center">
     <img width="80%" src="Code/4.png" />
-    <p><i>Giao diện quản lý lịch sử và kết xuất hóa đơn</i></p>
+    <p><i>Trung tâm cảnh báo</i></p>
 </div>
 
 <div align="center">
