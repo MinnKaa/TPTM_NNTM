@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   HỆ THỐNG GIÁM SÁT ĐỒNG HỒ NƯỚC THÔNG MINH (SMART WATER IoT DASHBOARD)
+   HỆ THỐNG GIÁM SÁT ĐỒNG HỒ NƯỚC THÔNG MINH 
 </h2>
 
 <div align="center">
@@ -124,4 +124,4 @@ Hệ thống sử dụng cơ sở dữ liệu SQLite local để quản lý thô
 ### Clone project
 Mở terminal và sao chép mã nguồn về máy cục bộ:
 ```bash
-git clone [https://github.com/MinnKaa/Smart_Water_IoT.git](https://github.com/MinnKaa/Smart_Water_IoT.git)
+git clone [https://github.com/MinnKaa/TPTM_NNTM.git]
